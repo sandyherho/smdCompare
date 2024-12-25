@@ -57,6 +57,9 @@ If you use this repository in your research, please cite the paper:
   author = {S. H. S. Herho and S. N. Kaban},
   title = {{Quantitative Performance Analysis of Spring-Mass-Damper Control Systems: A Comparative Implementation in Python and R}},
   journal = {xxxxxx},
+  volume={x},
+  number={x},
+  pages={xx--xx},
   year = {2024},
   doi={xxxxx}
 }
