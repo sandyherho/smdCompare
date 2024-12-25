@@ -3,7 +3,7 @@
 
 """
 Spring Mass Damper System with Simple PID Control
-Author: Sandy Herho (Modified)
+Author: Sandy Herho
 Date: 12/23/2024
 """
 

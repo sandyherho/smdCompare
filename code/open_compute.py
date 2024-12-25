@@ -3,7 +3,7 @@
 
 """
 Spring Mass Damper System Analysis with Mathematical Stability Criteria
-Author: Sandy Herho (Modified)
+Author: Sandy Herho 
 Date: 12/23/2024
 
 This script implements a Spring Mass Damper (SMD) system simulation
