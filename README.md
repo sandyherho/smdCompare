@@ -1,5 +1,10 @@
 # Supporting Material for "Quantitative Performance Analysis of Spring-Mass-Damper Control Systems"
 
+
+[![License: WTFPL](https://img.shields.io/badge/License-WTFPL-brightgreen.svg)](http://www.wtfpl.net/about/)
+[![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
+[![GitHub watchers](https://img.shields.io/github/watchers/Naereen/StrapDown.js.svg?style=social&label=Watch&maxAge=2592000)](https://github.com/sandyherho/smdCompare/watchers)
+
 This repository contains the code, data, and visualization outputs for the analysis and simulation of spring-mass-damper systems.
 
 ## Repository Structure
@@ -41,6 +46,20 @@ This repository contains the code, data, and visualization outputs for the analy
 │       ├── smd_response_py.png
 │       ├── controlled_phase_portrait_py.png
 │       └── controlled_smd_response_py.png
+```
+
+## Citation
+
+If you use this repository in your research, please cite the paper:
+
+```bibtex
+@article{herhoKaban25a,
+  author = {S. H. S. Herho and S. N. Kaban},
+  title = {{Quantitative Performance Analysis of Spring-Mass-Damper Control Systems: A Comparative Implementation in Python and R}},
+  journal = {xxxxxx},
+  year = {2024},
+  doi={xxxxx}
+}
 ```
 
 ## Usage
@@ -104,3 +123,10 @@ Processed data files are saved in `outputs/data/`. Figures are saved in `outputs
 
 ## License
 This repository is licensed under the WTFPL.
+
+
+
+
+
+
+
