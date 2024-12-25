@@ -3,6 +3,7 @@
 
 [![License: WTFPL](https://img.shields.io/badge/License-WTFPL-brightgreen.svg)](http://www.wtfpl.net/about/)
 [![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
+[![DOI](https://zenodo.org/badge/908233800.svg)](https://doi.org/10.5281/zenodo.14556320)
 
 This repository contains the code, data, and visualization outputs for the analysis and simulation of spring-mass-damper systems.
 
