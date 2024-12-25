@@ -1,0 +1,9 @@
+Metric,Value
+Final Position Error (m),0.004030169517022952
+Maximum Overshoot (m),0.10698654076404979
+Settling Time (s),12.8
+Maximum Control Force (N),259.20503496460105
+RMS Error (m),0.12402375677640497
+Steady State Value (m),0.995969830482977
+Maximum Speed (m/s),1.0397241724177224
+Maximum Acceleration (m/s²),2.137559457791821

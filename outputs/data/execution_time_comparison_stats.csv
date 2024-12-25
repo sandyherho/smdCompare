@@ -1,0 +1,9 @@
+implementation,metric,wilcoxon_stat,wilcoxon_p,wilcoxon_interpretation,levene_stat,levene_p,levene_interpretation,cohens_d,effect_size_interpretation,mean_diff_percent,overall_conclusion
+controlled,execution_time,0.000,0.000,Significant difference detected (p ≤ 0.05). Python is 63.566% faster/lower than R,1.035,0.309,Variances are homogeneous (p > 0.05),-8.175,Large effect size (|d| ≥ 0.8),-63.566,"Statistically significant difference between Python and R.
+                Effect size is large.
+                Performance variance is similar between implementations.
+                Python is 63.566% faster than R."
+open,execution_time,2115.500,0.000,Significant difference detected (p ≤ 0.05). Python is 26.517% faster/lower than R,13.157,0.000,Variances are significantly different (p ≤ 0.05),-1.939,Large effect size (|d| ≥ 0.8),-26.517,"Statistically significant difference between Python and R.
+                Effect size is large.
+                Performance variance is different between implementations.
+                Python is 26.517% faster than R."

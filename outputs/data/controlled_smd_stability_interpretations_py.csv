@@ -1,0 +1,8 @@
+Criterion,Interpretation
+Eigenvalues,"Closed-loop poles at [(-0.5+0j), (-0.25+0.661j), (-0.25-0.661j)]"
+Characteristic Equation,Characteristic equation: s³ + 1.500s² + 2.500s + 0.500 = 0
+Natural Frequency,Natural frequency ωn = 1.581 rad/s
+Damping Ratio,Damping ratio ζ = 0.474
+Asymptotic Stability,System is stable (eigenvalue criterion)
+Routh Stability,System is stable (Routh criterion)
+BIBO Stability,System is stable (BIBO criterion)

@@ -1,0 +1,8 @@
+"Metric","Value"
+"Eigenvalues","-0.25 +  0.661438 i, -0.25 + -0.661438 i"
+"Characteristic_Equation","1, 0.5, 0.5"
+"Damping_Factor","0.353553"
+"Natural_Frequency","0.707107"
+"Asymptotic_Stability","Stable"
+"Routh_Stability","Stable"
+"BIBO_Stability","Stable"

@@ -1,0 +1,7 @@
+Criterion,Value
+Eigenvalues,"[(-0.25+0.661j), (-0.25-0.661j)]"
+Characteristic Equation,"[1, 0.5, 0.5]"
+Damping Factor,0.354
+Asymptotic Stability,Stable
+Routh Stability,Stable
+BIBO Stability,Stable
