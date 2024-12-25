@@ -1,4 +1,4 @@
-# Supporting Material for "Quantitative Performance Analysis of Spring-Mass-Damper Control Systems"
+# Supporting Material for "Quantitative Performance Analysis of Spring-Mass-Damper Control Systems: A Comparative Implementation in Python and R"
 
 
 [![License: WTFPL](https://img.shields.io/badge/License-WTFPL-brightgreen.svg)](http://www.wtfpl.net/about/)
